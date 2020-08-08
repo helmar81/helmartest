@@ -8,7 +8,7 @@ const Slide = ({blok}) => {
         <style jsx>{`
           .slide img {
             width: 100%;
-            max-height: 500px;
+            max-height: 400px;
           }
         `}</style>
       </div>
